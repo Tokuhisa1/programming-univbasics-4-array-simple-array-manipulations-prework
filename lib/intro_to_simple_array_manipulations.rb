@@ -38,6 +38,6 @@ def using_flatten(array)
   array.flatten
 end
 
-def using_flatten(array)
-  array.flatten
+def using_unshift(array, string)
+  array.unshift(string)
 end
